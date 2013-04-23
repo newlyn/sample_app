@@ -5,6 +5,7 @@
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/.gitignore" changelist="bd969e1e-6566-4cea-bd71-b20c7ef79e21" time="1366740447885" ignored="false" />
+    <file path="/README.md" changelist="bd969e1e-6566-4cea-bd71-b20c7ef79e21" time="1366741403934" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="69" selection-start="224" selection-end="224" vertical-scroll-proportion="0.18897638">
+            <state line="8" column="69" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="29" selection-start="140" selection-end="140" vertical-scroll-proportion="0.070866145">
               <folding />
             </state>
           </provider>
@@ -45,12 +55,13 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="439" />
-    <option name="y" value="22" />
+    <option name="x" value="153" />
+    <option name="y" value="235" />
     <option name="width" value="1260" />
     <option name="height" value="760" />
   </component>
@@ -278,7 +289,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="439" y="22" width="1260" height="760" extended-state="0" />
+    <frame x="153" y="235" width="1260" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -370,7 +381,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="69" selection-start="224" selection-end="224" vertical-scroll-proportion="0.18897638">
+        <state line="8" column="69" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29" selection-start="140" selection-end="140" vertical-scroll-proportion="0.070866145">
           <folding />
         </state>
       </provider>
